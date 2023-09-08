@@ -35,7 +35,7 @@ $ npm start
 $ npm rum server
 ```
 
-[Imagem da aplicação rodando](./reacttodo.png)
+![](./reacttodo.png)
 
 # Licença
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter mais detalhes.
