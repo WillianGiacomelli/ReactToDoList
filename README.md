@@ -1,4 +1,4 @@
-## 🚀 TodoList <br>
+## 🚀 TodoList <br/>
 
 #Descrição
 Bem-vindo ao Meu Aplicativo TodoList! Esta é uma aplicação que permite que você crie e gerencie suas listas de tarefas de forma eficiente. Com uma interface intuitiva e amigável, você poderá adicionarexcluir tarefas, bem como marcar tarefas como concluídas e desmarcar. Tudo isso usando o React e a biblioteca JSON Server para simular uma API.
